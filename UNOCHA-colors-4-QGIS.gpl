@@ -1,0 +1,128 @@
+GIMP Palette
+Name: UNOCHA Color Palette
+Columns: 4
+#
+  0  37  77	UNOCHA-blue-1-p
+  0  90 184	UNOCHA-blue-2-p
+  5 130 255	UNOCHA-blue-3-p
+ 82 168 255	UNOCHA-UN-blue-4-p
+158 207 255	UNOCHA-blue-5-p
+204 230 255	UNOCHA-blue-6-p
+230 242 255	UNOCHA-blue-7-p
+ 77   0   2	UNOCHA-red-1-p
+173   0   5	UNOCHA-red-2-p
+250   0   7	UNOCHA-red-3-p
+255  71  77	UNOCHA-red-4-p
+255 148 150	UNOCHA-red-5-p
+255 204 207	UNOCHA-red-6-p
+255 230 230	UNOCHA-red-7-p
+ 38  38  38	UNOCHA-grey-1-p
+ 77  77  77	UNOCHA-grey-2-p
+115 115 115	UNOCHA-grey-3-p
+153 153 153	UNOCHA-grey-4-p
+191 191 191	UNOCHA-grey-5-p
+230 230 230	UNOCHA-grey-6-p
+242 242 242	UNOCHA-grey-7-p
+ 77  33   0	UNOCHA-brouwn-1-p
+168  72   0	UNOCHA-brouwn-2-p
+245 105   0	UNOCHA-brouwn-3-p
+255 148  66	UNOCHA-brouwn-4-p
+255 191 143	UNOCHA-brouwn-5-p
+255 227 204	UNOCHA-brouwn-6-p
+255 242 230	UNOCHA-broun-7-p
+ 60  77   0	UNOCHA-yellow-1-p
+161 201   0	UNOCHA-yellow-2-p
+207 255  23	UNOCHA-yellow-3-p
+222 255  99	UNOCHA-yellow-4-p
+237 255 176	UNOCHA-yellow-5-p
+245 255 204	UNOCHA-yellow-6-p
+250 255 230	UNOCHA-yellow-7-p
+ 30  77   0	UNOCHA-green-1-p
+ 72 184   0	UNOCHA-green-2-p
+105 255   5	UNOCHA-green-3-p
+150 255  82	UNOCHA-green-4-p
+196 255 158	UNOCHA-green-5-p
+224 255 204	UNOCHA-green-6-p
+240 255 230	UNOCHA-green-7-p
+  0  77  41	UNOCHA-cyan-1-p
+  0 245 132	UNOCHA-cyan-2-p
+ 66 255 168	UNOCHA-cyan-3-p
+143 255 204	UNOCHA-cyan-4-p
+219 255 240	UNOCHA-cyan-5-p
+ 59  49  19	UNOCHA-gold-1-p
+148 123  49	UNOCHA-gold-2-p
+196 165  77	UNOCHA-gold-3-p
+216 195 135	UNOCHA-gold-4-p
+235 223 192	UNOCHA-gold-5-p
+242 237 218	UNOCHA-gold-6-p
+250 245 237	UNOCHA-gold-7-p
+ 16   0  77	UNOCHA-purple-1-p
+ 40   0 189	UNOCHA-purple-2-p
+ 61  10 255	UNOCHA-purple-3-p
+122  87 255	UNOCHA-purple-4-p
+184 163 255	UNOCHA-purple-5-p
+214 204 255	UNOCHA-purple-6-p
+235 230 255	UNOCHA-purple-7-p
+ 11  38  65	UNOCHA-blue-1-w
+ 20  67 114	UNOCHA-blue-2-w
+ 31 105 179	UNOCHA-blue-3-w
+ 65 143 222	UNOCHA-UN-blue-4-w
+130 181 233	UNOCHA-blue-5-w
+212 229 247	UNOCHA-blue-6-w
+233 242 251	UNOCHA-blue-7-w
+ 66  19  10	UNOCHA-red-1-w
+139  39  21	UNOCHA-red-2-w
+205  58  31	UNOCHA-red-3-w
+229 106  84	UNOCHA-red-4-w
+239 164 151	UNOCHA-red-5-w
+248 216 211	UNOCHA-red-6-w
+252 236 233	UNOCHA-red-7-w
+ 38  38  38	UNOCHA-grey-1-w
+ 77  77  77	UNOCHA-grey-2-w
+115 115 115	UNOCHA-grey-3-w
+153 153 153	UNOCHA-grey-4-w
+191 191 191	UNOCHA-grey-5-w
+230 230 230	UNOCHA-grey-6-w
+242 242 242	UNOCHA-grey-7-w
+ 69  39   7	UNOCHA-brouwn-1-w
+150  84  16	UNOCHA-brouwn-2-w
+219 123  24	UNOCHA-brouwn-3-w
+236 161  84	UNOCHA-brouwn-4-w
+244 199 153	UNOCHA-brouwn-5-w
+250 230 209	UNOCHA-brouwn-6-w
+252 242 232	UNOCHA-broun-7-w
+ 64  66  10	UNOCHA-yellow-1-w
+152 159  24	UNOCHA-yellow-2-w
+213 222  38	UNOCHA-yellow-3-w
+226 232 104	UNOCHA-yellow-4-w
+239 242 170	UNOCHA-yellow-5-w
+247 248 211	UNOCHA-yellow-6-w
+251 252 233	UNOCHA-yellow-7-w
+ 42  61  16	UNOCHA-green-1-w
+ 85 124  31	UNOCHA-green-2-w
+127 185  47	UNOCHA-green-3-w
+164 214  94	UNOCHA-green-4-w
+198 230 155	UNOCHA-green-5-w
+232 245 214	UNOCHA-green-6-w
+244 250 235	UNOCHA-green-7-w
+ 15  61  58	UNOCHA-cyan-1-w
+ 36 143 136	UNOCHA-cyan-2-w
+ 52 204 193	UNOCHA-cyan-3-w
+113 219 212	UNOCHA-cyan-4-w
+174 234 230	UNOCHA-cyan-5-w
+214 245 243	UNOCHA-cyan-6-w
+235 250 249	UNOCHA-cyan-7-w
+ 55  44  21	UNOCHA-gold-1-w
+144 115  55	UNOCHA-gold-2-w
+190 156  86	UNOCHA-gold-3-w
+211 188 141	UNOCHA-gold-4-w
+232 220 196	UNOCHA-gold-5-w
+241 233 218	UNOCHA-gold-6-w
+248 244 236	UNOCHA-gold-7-w
+ 35  19  58	UNOCHA-purple-1-w
+ 70  36 114	UNOCHA-purple-2-w
+105  55 172	UNOCHA-purple-3-w
+144  99 205	UNOCHA-purple-4-w
+185 157 224	UNOCHA-purple-5-w
+228 216 243	UNOCHA-purple-6-w
+241 236 249	UNOCHA-purple-7-w
