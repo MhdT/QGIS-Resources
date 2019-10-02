@@ -23,13 +23,13 @@ Columns: 4
 191 191 191	UNOCHA-grey-5-p
 230 230 230	UNOCHA-grey-6-p
 242 242 242	UNOCHA-grey-7-p
- 77  33   0	UNOCHA-brouwn-1-p
-168  72   0	UNOCHA-brouwn-2-p
-245 105   0	UNOCHA-brouwn-3-p
-255 148  66	UNOCHA-brouwn-4-p
-255 191 143	UNOCHA-brouwn-5-p
-255 227 204	UNOCHA-brouwn-6-p
-255 242 230	UNOCHA-broun-7-p
+ 77  33   0	UNOCHA-brown-1-p
+168  72   0	UNOCHA-brown-2-p
+245 105   0	UNOCHA-brown-3-p
+255 148  66	UNOCHA-brown-4-p
+255 191 143	UNOCHA-brown-5-p
+255 227 204	UNOCHA-brown-6-p
+255 242 230	UNOCHA-brown-7-p
  60  77   0	UNOCHA-yellow-1-p
 161 201   0	UNOCHA-yellow-2-p
 207 255  23	UNOCHA-yellow-3-p
@@ -84,13 +84,13 @@ Columns: 4
 191 191 191	UNOCHA-grey-5-w
 230 230 230	UNOCHA-grey-6-w
 242 242 242	UNOCHA-grey-7-w
- 69  39   7	UNOCHA-brouwn-1-w
-150  84  16	UNOCHA-brouwn-2-w
-219 123  24	UNOCHA-brouwn-3-w
-236 161  84	UNOCHA-brouwn-4-w
-244 199 153	UNOCHA-brouwn-5-w
-250 230 209	UNOCHA-brouwn-6-w
-252 242 232	UNOCHA-broun-7-w
+ 69  39   7	UNOCHA-brown-1-w
+150  84  16	UNOCHA-brown-2-w
+219 123  24	UNOCHA-brown-3-w
+236 161  84	UNOCHA-brown-4-w
+244 199 153	UNOCHA-brown-5-w
+250 230 209	UNOCHA-brown-6-w
+252 242 232	UNOCHA-brown-7-w
  64  66  10	UNOCHA-yellow-1-w
 152 159  24	UNOCHA-yellow-2-w
 213 222  38	UNOCHA-yellow-3-w
